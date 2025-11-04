@@ -1,10 +1,5 @@
 <!-- 🌸 Hafsah Niaz – Pink Aesthetic GitHub README -->
-<p align="center">
-  <img src="https://i.pinimg.com/1200x/bf/97/c1/bf97c16704567d42c616d2fd6a376072.jpg" 
-       alt="Pink Aesthetic Banner" 
-       width="900" 
-       style="border: 3px solid #ffb6c1; border-radius: 20px; box-shadow: 0 4px 15px rgba(255,105,180,0.3);" />
-</p>
+
 <h1 align="center" style="color:#ff66b3;">🌸 Hey there, I'm <b>Hafsah Niaz</b> 👋</h1>
 
 <p align="center">
