@@ -59,11 +59,11 @@
 
 ### 💡 Projects
 
-**🤖 AI Chatbot Integration (READ Automation)**  
-Developed and integrated an intelligent chatbot using **Gemini API** into the company website for client engagement.  
-Tech Stack: *JavaScript, Node.js, Gemini API*
+**🤖 Company Website & AI Chatbot Integration (READ Automation)**  
+Developed the READ Automation company website and integrated an intelligent chatbot using **Gemini API** into the website for client engagement.  
+Tech Stack: *HTML/CSS, JavaScript, Node.js, Gemini API*
 
-**🏫 School Website Project (READ Automation)**  
+**🏫 School Website Project (Agape Garden)**  
 Built a responsive school website with **React.js** frontend and **PHP/Node.js** backend.  
 Tech Stack: *React.js, Node.js, PHP, CSS, JavaScript*
 
