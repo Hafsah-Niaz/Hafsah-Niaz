@@ -59,26 +59,30 @@
 ### 💡 Projects
 
 #### 🤖 **Company Website & AI Chatbot Integration (READ Automation)**
-Developed the READ Automation company website and integrated an intelligent chatbot using **Gemini API** into the website for client engagement.  
-**Tech Stack:** *HTML/CSS, JavaScript, Node.js, Gemini API*
+Developed the READ Automation company website and integrated an intelligent chatbot using **Gemini API** for client engagement.  
+**Tech Stack:** *HTML/CSS, JavaScript, Node.js, Gemini API*  
+🔗 [View Project](https://github.com/Hafsah-Niaz/READ-Automation-Website)
+
+---
 
 #### 🏫 **School Website Project (Agape Garden)**
 Built a responsive school website with **React.js** frontend and **PHP/Node.js** backend.  
-**Tech Stack:** *React.js, Node.js, PHP, CSS, JavaScript*
+**Tech Stack:** *React.js, Node.js, PHP, CSS, JavaScript*  
+🔗 [View Project](https://github.com/Hafsah-Niaz/Agape-Garden-School-Website)
+
+---
 
 #### 🧠 **Emotion Detector**
 Real-time emotion recognition from live video using deep learning.  
-**Tech Stack:** *Python, TensorFlow, Keras, OpenCV, Streamlit*
+**Tech Stack:** *Python, TensorFlow, Keras, OpenCV, Streamlit*  
+🔗 [View Project](https://github.com/Hafsah-Niaz/Emotion-Detector)
 
-#### 🌿 **Mental Health AI Platform**
-AI-based web app offering emotion detection, resources, and relaxation activities.  
-**Tech Stack:** *Python, Flask, MongoDB, HTML/CSS, JavaScript*
+---
 
 #### 🔒 **Invisible Watermarking System**
 Secure PDF watermarking platform with embedded QR-based access tracking.  
-**Tech Stack:** *Python, Flask, PyPDF2, Cryptography, HTML/CSS*
-
----
+**Tech Stack:** *Python, Flask, PyPDF2, Cryptography, HTML/CSS*  
+🔗 [View Project](https://github.com/Hafsah-Niaz/Invisible-Watermarking-System)
 
 ### 📊 GitHub Stats
 
