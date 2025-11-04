@@ -61,7 +61,7 @@
 #### 🤖 **Company Website & AI Chatbot Integration (READ Automation)**
 Developed the READ Automation company website and integrated an intelligent chatbot using **Gemini API** for client engagement.  
 **Tech Stack:** *HTML/CSS, JavaScript, Node.js, Gemini API*  
-🔗 [View Project](https://github.com/Hafsah-Niaz/READ-Automation-Website)
+🔗 [View Project](https://github.com/Hafsah-Niaz/Read-Automation-Internship)
 
 ---
 
@@ -82,7 +82,7 @@ Real-time emotion recognition from live video using deep learning.
 #### 🔒 **Invisible Watermarking System**
 Secure PDF watermarking platform with embedded QR-based access tracking.  
 **Tech Stack:** *Python, Flask, PyPDF2, Cryptography, HTML/CSS*  
-🔗 [View Project](https://github.com/Hafsah-Niaz/Invisible-Watermarking-System)
+🔗 [View Project](https://github.com/Hafsah-Niaz/Invisible-Watermarking)
 
 ### 📊 GitHub Stats
 
