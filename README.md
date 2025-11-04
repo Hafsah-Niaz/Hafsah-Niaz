@@ -3,7 +3,7 @@
 <h1 align="center" style="color:#ff66b3;">🌸 Hey there, I'm <b>Hafsah Niaz</b> 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Aspiring+Software+Engineer+👩‍💻;AI+%26+ML+Developer+🤖;Full+Stack+Developer+🌐;Cloud+Computing+☁️;Always+Learning+and+Creating+🌸" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Aspiring+Software+Engineer+👩‍💻;AI+%26+ML+Developer+🤖;Full+Stack+Developer+🌐;Cloud+Computing+☁️" alt="Typing Animation" />
 </p>
 
 ---
