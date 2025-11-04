@@ -41,7 +41,7 @@
 
 
 <p align="center" style="color:#ff6faf;">
-✨ Python • Java • C • JavaScript • React.js • Node.js • Flask • TensorFlow • AWS • Cloud Computing • SQL • MongoDB • Git • Streamlit ✨
+✨ Python • Java • C • JavaScript • React.js • Node.js • Flask • TensorFlow • AWS • Cloud Computing • SQL • MongoDB • Git ✨
 </p>
 
 ---
