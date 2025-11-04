@@ -1,8 +1,10 @@
-<h1 align="center" style="color:#ff66b3;">🌸 Hey there, I'm Hafsah Niaz 👋</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Aspiring+Software+Engineer+👩‍💻;AI+%26+ML+Developer+🤖;Full+Stack+Developer+🌐;Cloud+Computing+☁️;Always+Learning+and+Creating+🌸" alt="Typing Animation" />
-</p>
+<!-- 🌸 Pink Gradient Header -->
+<div align="center" style="background: linear-gradient(90deg, #ffc0cb, #ffb6c1, #ffd1dc); padding: 40px 0; border-radius: 20px;">
+  <h1 style="color:white; font-size: 45px;">🌸 Hey there, I'm <b>Hafsah Niaz</b> 👋</h1>
+  <p>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Aspiring+Software+Engineer+👩‍💻;AI+%26+ML+Developer+🤖;Full+Stack+Developer+🌐;Cloud+Computing+☁️;Always+Learning+and+Creating+🌸" alt="Typing Animation" />
+  </p>
+</div>
 
 ---
 
@@ -26,29 +28,31 @@
 ---
 
 ### 💻 Technical Skills
+<div align="center">
+  
+🪶 <b>Languages</b><br>
+<img src="https://skillicons.dev/icons?i=python,java,c,js" height="50"><br><br>
 
-**Languages:**  
-🪶 Python | ☕ Java | ⚙️ C | 🌐 JavaScript  
+🚀 <b>Frameworks</b><br>
+<img src="https://skillicons.dev/icons?i=react,nodejs,flask,express" height="50"><br><br>
 
-**Frameworks:**  
-🚀 Flask | Express.js | Node.js | React.js  
+🧩 <b>Libraries</b><br>
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv" height="50"><br><br>
 
-**Libraries:**  
-🧩 TensorFlow | Keras | OpenCV | Scikit-learn | Pandas | NumPy  
+🗄️ <b>Databases</b><br>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" height="50"><br><br>
 
-**Databases:**  
-🗄️ MySQL | MongoDB  
+☁️ <b>Cloud & DevOps</b><br>
+<img src="https://skillicons.dev/icons?i=aws" height="50"><br><br>
 
-**Cloud & DevOps:**  
-☁️ AWS | Cloud Computing | Streamlit  
+🧰 <b>Tools</b><br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" height="50"><br>
 
-**Tools:**  
-🧰 Git | GitHub | Jupyter Notebook | VS Code  
+</div>
 
 ---
 
 ### 💼 Experience
-
 **Web Development Intern — READ Automation (June 2025 – July 2025)**  
 - Developed the **official company website** using **HTML, CSS, JavaScript, and Node.js**.  
 - Built a **school client website** using **React.js** and **Node.js**.  
@@ -58,50 +62,48 @@
 ---
 
 ### 💡 Projects
-
 **🤖 Company Website & AI Chatbot Integration (READ Automation)**  
 Developed the READ Automation company website and integrated an intelligent chatbot using **Gemini API** into the website for client engagement.  
-Tech Stack: *HTML/CSS, JavaScript, Node.js, Gemini API*
+🧠 *Tech Stack:* HTML/CSS, JavaScript, Node.js, Gemini API  
 
 **🏫 School Website Project (Agape Garden)**  
 Built a responsive school website with **React.js** frontend and **PHP/Node.js** backend.  
-Tech Stack: *React.js, Node.js, PHP, CSS, JavaScript*
+🧠 *Tech Stack:* React.js, Node.js, PHP, CSS, JavaScript  
 
 **🧠 Emotion Detector**  
 Real-time emotion recognition from live video using deep learning.  
-Tech Stack: *Python, TensorFlow, Keras, OpenCV, Streamlit*
+🧠 *Tech Stack:* Python, TensorFlow, Keras, OpenCV, Streamlit  
 
 **🌿 Mental Health AI Platform**  
 AI-based web app offering emotion detection, resources, and relaxation activities.  
-Tech Stack: *Python, Flask, MongoDB, HTML/CSS, JavaScript*
+🧠 *Tech Stack:* Python, Flask, MongoDB, HTML/CSS, JavaScript  
 
 **🔒 Invisible Watermarking System**  
 Secure PDF watermarking platform with embedded QR-based access tracking.  
-Tech Stack: *Python, Flask, PyPDF2, Cryptography, HTML/CSS*
+🧠 *Tech Stack:* Python, Flask, PyPDF2, Cryptography, HTML/CSS  
 
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hafsah-Niaz&show_icons=true&theme=rose_pine" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Hafsah-Niaz&theme=rose_pine&hide_border=false" height="165" />
-</p>
+</div>
 
 ---
 
 ### 🌸 Let's Connect!
-<p align="center">
-  <a href="mailto:hafsahniaz25@gmail.com"><img src="https://img.shields.io/badge/Gmail-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/hafsah-niaz"><img src="https://img.shields.io/badge/LinkedIn-FFC0CB?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Hafsah-Niaz"><img src="https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+<div align="center">
+  <a href="mailto:hafsahniaz25@gmail.com"><img src="https://img.shields.io/badge/Gmail-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/hafsah-niaz"><img src="https://img.shields.io/badge/LinkedIn-FFC0CB?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/Hafsah-Niaz"><img src="https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white"></a>
+</div>
 
 ---
 
-<p align="center">
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=Hafsah-Niaz&color=FFB6C1&style=flat-square&label=Profile+Views" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="300" alt="fun gif" />
-</p>
+  <br><br>
+  <img src="https://media.giphy.com/media/l4pTfx2qLszoacZRS/giphy.gif" width="300" alt="cute gif">
+  <h3>💖 Thanks for visiting! Have a lovely day 💖</h3>
+</div>
